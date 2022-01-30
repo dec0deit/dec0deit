@@ -2,7 +2,7 @@
 
 <div>
 <strong>About Me:</strong><br><br>
-💻 I am currently working as a SDE internk<br>
+💻 I am currently working as a SDE intern<br>
 📈 I have experienced in Software Development using MVC model in various frameworks(.NET, MERN stack)<br>
 📚 I am also a final year undergraduate in NIT Kurukshetra<br>
 🧠 I have keen knowledge of DSA <br>
