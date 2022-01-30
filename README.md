@@ -1,4 +1,4 @@
-<h1>Hi, <a href="https://github.com/dec0deit" style="color:black">Nipun</a> here</h1>
+<h1>Hi Everyone,👋</h1>
 
 <div>
 <strong>About Me:</strong><br><br>
