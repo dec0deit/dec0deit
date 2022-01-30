@@ -25,6 +25,6 @@
 <strong  align="center">🌟 My Contact Details :</strong><br><br>
 📫 Mail me at <a href="mailto:singlanipun29@gmail.com">singlanipun29@gmail.com</a><br>
 😄 Check my <a href="https://www.linkedin.com/in/nipun-gupta-834946170/">Linkedin</a><br>
-🌐 Check my <a href="https://portfolio-website-56xb20602-nipunsingla.vercel.app/">Portfolio</a><br>
+🌐 Visit my<a href="https://portfolio-website-56xb20602-nipunsingla.vercel.app/">Portfolio</a><br>
 
 
