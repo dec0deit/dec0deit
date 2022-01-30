@@ -1,10 +1,11 @@
-<h1>Hi, I'm <a href="https://github.com/dec0deit">Nipun</a></h1>
+<h1>Hi, I'm <a href="https://github.com/dec0deit" style="color:black">Nipun</a></h1>
 
 <div>
 <strong>About Me:</strong><br><br>
-💻 I’m currently working as an intern at Krishi Network<br>
+💻 I am currently working as a SDE internk<br>
 📈 I have experienced in Software Development using MVC model in various frameworks(.NET, MERN stack)<br>
-📚 I’m a final year undergraduate in NIT Kurukshetra<br>
+📚 I am also a final year undergraduate in NIT Kurukshetra<br>
+🧠 I have keen knowledge of DSA <br>
 🏆 My certifications: 
 <ul>
   <li>Block Chain Basics from Coursera </li>
