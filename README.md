@@ -22,7 +22,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dec0deit&theme=radical&hide_border=true"/><br><br>
 
 
-<strong  align="center">📊 Contact Details :</strong><br>
+<strong  align="center">📊 Contact Details :</strong><br><br>
 📫 Mail me<a href="mailto:singlanipun29@gmail.com">singlanipun29@gmail.com</a><br>
 😄 Check <a href="https://www.linkedin.com/in/nipun-gupta-834946170/">Linkedin</a><br>
 🌐 Check <a href="https://portfolio-website-56xb20602-nipunsingla.vercel.app/">Portfolio</a><br>
