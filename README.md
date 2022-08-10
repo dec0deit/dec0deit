@@ -3,7 +3,7 @@
 <div>
 <strong>About Me:</strong><br><br>
 📍 I'm Nipun from India.<br>
-💻 I am currently working as a SDE intern<br>
+💻 I am currently working as a SWE at Microsoft<br>
 📈 I have a good experience in Software Development using MVC model in various frameworks(.NET, MERN stack)<br>
 📚 I am also a final year undergraduate in NIT Kurukshetra<br>
 🧠 I have keen knowledge of DSA <br>
